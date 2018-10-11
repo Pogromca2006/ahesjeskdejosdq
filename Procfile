@@ -1,1 +1,1 @@
-worker: ./loopself.py
+node Bot.js
